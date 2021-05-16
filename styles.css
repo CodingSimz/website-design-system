@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Bebas+Neue&family=Bellota:ital,wght@0,400;0,700;1,400&family=Hachi+Maru+Pop&display=swap');
+
+html {margin: 0 auto;}
+body {
+  font-family: 'Trebuchet MS';
+  margin: 20px 10%; 
+  position: relative;
+}
+
+section {max-width: 660px;}
+
+.swatch {
+  border: 1px solid white;
+  border-radius: 50%;
+  display: inline-block;
+  height: 120px;
+  margin: 0 10px 10px 0;
+  text-align: center;
+  width: 120px;
+}
+
+.swatch p {position: relative; top: 20px;}
+
+.ls-steel {background-color: #e9eaea;}
+.s-steel {background-color: #939597;}
+.steel {background-color: #6e7071; color: white;}
+.d-steel {background-color: #4a4b4c; color: white;}
+.lightsun {background-color: #f5e78a;}
+.lemonsun {background-color: #f5df4d;}
+.brightsun {background-color: #f7d52f;}
+
+.fonts {
+  border: 1px solid white;
+  display: inline-block;
+  margin: 0 20px 10px 0;
+  width: 260px;
+}
+
+.fonts p {position: relative; top: 0;}
+
+.abeezee {font-family: 'ABeeZee', sans-serif;}
+.bebas {font-family: 'Bebas Neue', cursive;}
+.bellota {font-family: 'Bellota', cursive;}
+.hachi {font-family: 'Hachi Maru Pop', cursive;}
+
+.h1 {
+  background-color: #f5df4d;
+  color: #6e7071;
+  font-size: 2em;
+}
+
+.h2 {
+  background-color: #e9eaea;
+  color: #6e7071;
+  font-size: 1.5em;
+}
+.nav {
+  background-color: #939597;
+  color: #e9eaea;
+  font-size: 1.1em;
+}
+.p {
+  background-color: #e9eaea;
+  color: #4a4b4c;
+}
+.foot {
+  background-color: #4a4b4c;
+  color: #f5e78a;
+  font-family: Bebas Neue Regular;
+  font-size: 0.9em;
+}
+
